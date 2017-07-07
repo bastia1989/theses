@@ -11,3 +11,5 @@ thesis.bib
 You can download the original version here:
 
  https://www.icts.uiowa.edu/confluence/display/GISOTeX/Home
+
+Record; July 7th push attempt
